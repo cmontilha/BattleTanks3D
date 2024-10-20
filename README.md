@@ -3,12 +3,13 @@
 A **simple 3D tank battle game** developed in Unity using **C#**. This game features intuitive controls and basic AI for enemy functionalities, offering engaging single-player gameplay.
 
 ---
+## 🎮 Gameplay Preview
 
 <img src="./game_play.gif" alt="BattleTanks3D" width="500"/>
 
 ---
 
-## 🎮 Gameplay Features
+## Gameplay Features
 - **Tanks Movement**: Move the tank using arrow keys or WASD.
 - **Shooting Mechanics**: Aim using the mouse and shoot with the left mouse button.
 - **Enemy AI**: Enemy tanks track your position, shoot every 3 seconds, and can destroy you.
