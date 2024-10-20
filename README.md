@@ -4,7 +4,7 @@ A **simple 3D tank battle game** developed in Unity using **C#**. This game feat
 
 ---
 
-![BattleTanks3D](./game_play.png)
+<img src="./game_play.gif" alt="BattleTanks3D" width="500"/>
 
 ---
 
