@@ -28,7 +28,7 @@ A **simple 3D tank battle game** developed in Unity using **C#**. This game feat
 ## How to Play
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/BattleTanks3D.git
+git clone https://github.com/cmontilha/BattleTanks3D.git
 ```
 2. Open the project in Unity.
 3. Hit the play button in Unity Editor.
