@@ -55,6 +55,7 @@ git clone https://github.com/cmontilha/BattleTanks3D.git
 ---
 
 ## 📚 Resources
+- [How to Install Unity on Mac by Tech Mammal](https://youtu.be/Go9GdJUR4-0?si=pO6XdHd_vhKqJC3M): To install Unity on Mac
 - [Unity Documentation](https://docs.unity3d.com/): For general Unity references and tutorials.
 - [NavMesh Agent](https://docs.unity3d.com/ScriptReference/AI.NavMeshAgent.html): Documentation for enemy AI navigation.
 - [C# Scripting](https://unity.com/how-to/programming-unity): For programmers new to Unity
